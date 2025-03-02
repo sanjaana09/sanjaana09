@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Sanjana Garg</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
@@ -12,15 +11,9 @@
 
 - ⚡ Fun fact: **🤖 I talk to my code more than I talk to people. And yes, it still doesn’t listen.**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.sanjaana09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.sanjaana09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sanjanagarg26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanjanagarg26/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/sanjana94160" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanjana94160" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanjana_garg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanjana_garg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sanjana5r0a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sanjana5r0a" height="30" width="40" /></a>
 </p>
